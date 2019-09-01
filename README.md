@@ -1,5 +1,4 @@
 Propuesta trabajo final de la materia DCI CESE2019 Octava Corte. Buenos Aires, Argentina.
-Estudiante: 
   ### Iván Camilo Aranda Casas. ###
 
  
