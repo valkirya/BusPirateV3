@@ -1,0 +1,2 @@
+# BusPirateV3
+ Pagina oficial del proyecto: http://dangerousprototypes.com/docs/Bus_Pirate_v3.6  # Bus Pirate - BPv3 #  El "Bus Pirate" es una multi-herramienta, de código abierto, con la que podrás comunicarte con aparatos electrónicos. Posee un montón de característica que un intrépido hacker podría necesitar para el prototipado de sus próximos proyectos. Este manual es un esfuerzo para vincular toda la información disponible del Bus Pirate en un solo lugar.  ## License ##  - Hardware: CC-0
